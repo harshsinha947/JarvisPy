@@ -39,7 +39,7 @@ It can open apps, play YouTube songs, fetch weather, tell jokes, and respond thr
 
 ## ⚙️ Installation & Setup
 
-1. **Clone this repository**
+ **Clone this repository**
    ```bash
    git clone https://github.com/<your-username>/PyVoice-Desktop-Assistant.git
    cd PyVoice-Desktop-Assistant
